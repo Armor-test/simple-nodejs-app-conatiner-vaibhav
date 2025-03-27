@@ -1,0 +1,7 @@
+subversion
+sysvinit-utils
+tar
+python3.11
+curl
+sudo
+vim
